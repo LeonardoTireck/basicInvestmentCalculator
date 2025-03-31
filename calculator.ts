@@ -76,7 +76,7 @@ function printResults(results: CalculationResult) {
     console.log("---------------------");
   }
 }
-
+//Change the values as you wish.
 const investmentData: InvestmentData = {
   initialAmount: 2000,
   annualContribution: 2000,
